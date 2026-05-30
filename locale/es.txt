@@ -1,0 +1,250 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_EB033B01_7785_876E_41A2_16AF0E80901E.source = http://wa.me/4423691939
+LinkBehaviour_60B6996B_7506_4B20_41D6_BE603525EB49.source = http://wa.me/4423691939
+LinkBehaviour_EC594591_7785_836E_41C5_95B036C13804.source = http://wa.me/4423691939
+LinkBehaviour_D10963D5_7784_8696_41D7_B75B421D26A1.source = http://wa.me/4423691939
+LinkBehaviour_D690D265_7784_81B6_41C1_F0EFE6163D2A.source = https://arcaterra.mx/
+LinkBehaviour_54F24986_7506_4BE0_41D3_C62921F38AF7.source = https://www.facebook.com/ArcaTerra.ConsultoriaInmobiliaria
+LinkBehaviour_55FC1B4E_7505_CF60_41C9_AD2A3BD0289D.source = https://www.facebook.com/ArcaTerra.ConsultoriaInmobiliaria
+LinkBehaviour_54BE1EBA_7506_4920_41D2_EFBBA0DF6E9E.source = https://www.facebook.com/ArcaTerra.ConsultoriaInmobiliaria
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d279.04265357312204!2d-100.4721068201982!3d20.74695109923489!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2smx!4v1780103463798!5m2!1ses!2smx
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d279.04265357312204!2d-100.4721068201982!3d20.74695109923489!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2smx!4v1780103463798!5m2!1ses!2smx
+LinkBehaviour_55D08129_7507_FB20_41C6_AA65A6BE4D77.source = https://x.com/Arca_Terra
+
+## Hotspot
+
+### Texto
+HotspotPanoramaOverlayTextImage_68485256_7679_8B4B_41DA_AD83C4209894.text = 1/2 Baño
+HotspotPanoramaOverlayTextImage_6F09B19A_7618_89FA_41D5_B72172322A8C.text = 1/2 Baño
+HotspotPanoramaOverlayTextImage_6FB91059_7618_8746_41D5_AA3E38AEC117.text = Acceso
+HotspotPanoramaOverlayTextImage_6FE4D586_766B_89CD_41A9_98D7638A4069.text = Acceso Lateral
+HotspotPanoramaOverlayTextImage_6E1A0499_7619_8FC6_41CD_9B0613B4E2A5.text = Acceso Lateral
+HotspotPanoramaOverlayTextImage_60B4785F_7617_877B_41C6_6656F5DD9E9D.text = Acceso Lateral
+HotspotPanoramaOverlayTextImage_60154051_7617_8747_41D3_36CE0EF776FB.text = Acceso Principal
+HotspotPanoramaOverlayTextImage_6FB15021_7668_86C9_41B3_F3BF7C74557F.text = Acceso Principal
+HotspotPanoramaOverlayTextImage_6DA60376_7669_894D_41D0_B1C86196C055.text = Acceso Principal
+HotspotPanoramaOverlayTextImage_6EEDE5BC_7618_893D_41D4_83C154D045CA.text = Acceso Principal
+HotspotPanoramaOverlayTextImage_61FF6553_7629_894A_41CF_E56A82291D06.text = Acceso lateral
+HotspotPanoramaOverlayTextImage_601FFBCB_762B_995A_41D0_652C360098FE.text = Acceso principal
+HotspotPanoramaOverlayTextImage_6F0BA214_761B_8ACD_41D4_511FF1B4290F.text = Alacena
+HotspotPanoramaOverlayTextImage_56A9FB9F_7668_9C90_41DC_5744C5DB2C4A.text = Baja PB.
+HotspotPanoramaOverlayTextImage_55F58D0E_7618_9570_41B5_E197147F62C2.text = Baja a 1er nivel
+HotspotPanoramaOverlayTextImage_5793526D_766B_8FB0_41B5_125134833465.text = Balcón
+HotspotPanoramaOverlayTextImage_561363F3_7668_8C90_41D7_B8AC3DEF4594.text = Baño
+HotspotPanoramaOverlayTextImage_535A7107_7619_8D70_41CC_97DBF86DB430.text = Baño
+HotspotPanoramaOverlayTextImage_54B5BC8B_7669_9B70_41DA_1D569D4EF787.text = Baño Hab Principal
+HotspotPanoramaOverlayTextImage_6EB6B407_7618_8ECB_41BB_475551B6F799.text = Cocina
+HotspotPanoramaOverlayTextImage_6E62DAB0_7618_9BC5_41C8_0A4709F5EB32.text = Cocina
+HotspotPanoramaOverlayTextImage_6CBC2B9D_7668_99FE_41C1_A16678C56AC5.text = Cocina
+HotspotPanoramaOverlayTextImage_6879D746_7678_894D_41D8_497FC35DC6AD.text = Cocina
+HotspotPanoramaOverlayTextImage_6A269642_7678_8B45_41AB_CE563339311D.text = Cocina
+HotspotPanoramaOverlayTextImage_5C491A2D_762B_7FB0_41A9_78CC879DE61E.text = Descanso 1er nivel
+HotspotPanoramaOverlayTextImage_6C9BC23A_766F_8AC5_41D0_66E06EB61899.text = Escalera PB.
+HotspotPanoramaOverlayTextImage_5248ADE2_761F_94B0_41AB_75A7FA66B0E1.text = Escalera Roof
+HotspotPanoramaOverlayTextImage_6EED10E2_761F_874A_41DA_DD8C904A55D7.text = Estudio
+HotspotPanoramaOverlayTextImage_6A422C3B_7669_9F3B_41C2_5EF074658AAB.text = Estudio
+HotspotPanoramaOverlayTextImage_6AB3B25D_7678_8B7E_41D2_29189686E410.text = Estudio
+HotspotPanoramaOverlayTextImage_695A4278_7678_8F90_41D4_15233509DC29.text = Estudio
+HotspotPanoramaOverlayTextImage_53351E49_7618_F7F0_41D4_290DA3452E94.text = Hab Principal
+HotspotPanoramaOverlayTextImage_5338CF6A_7617_B5B0_41C8_1DAD70FEEFB0.text = Hab Principal
+HotspotPanoramaOverlayTextImage_569A78C8_7668_BCF0_41BA_96A08D7E0E50.text = Hab. 2
+HotspotPanoramaOverlayTextImage_57DDBE6A_7669_77B0_41C7_90D8DFA63A8E.text = Hab. 3
+HotspotPanoramaOverlayTextImage_56F46C78_7668_FB90_41D6_F933696D1F38.text = Hab. Principal
+HotspotPanoramaOverlayTextImage_6D8D8EE5_7668_9B4F_41CD_8A074011FD37.text = Jardin
+HotspotPanoramaOverlayTextImage_698FD3A1_7678_89C7_41DA_66C5A37D08F3.text = Jardín
+HotspotPanoramaOverlayTextImage_6EB27DCB_7618_995A_41DA_FBC38EFE714A.text = Jardín
+HotspotPanoramaOverlayTextImage_6C106BC0_7618_9946_41A8_00C98ABB6B0F.text = Jardín
+HotspotPanoramaOverlayTextImage_5D6BF989_7628_BD70_41C8_438076B2B998.text = Jardín
+HotspotPanoramaOverlayTextImage_6C531057_7668_874B_41A5_CF7CA7414F2F.text = Jardín
+HotspotPanoramaOverlayTextImage_69A4C2BE_7668_8C90_41AC_2BD1D914BBEC.text = Lobby
+HotspotPanoramaOverlayTextImage_68A40951_7679_9D90_41D5_95BF994F7854.text = Lobby
+HotspotPanoramaOverlayTextImage_557F1036_7618_8B90_41D7_C8F8A039A5C3.text = Pasillo Lateral
+HotspotPanoramaOverlayTextImage_55855C5D_7619_9B90_41CD_940F256BC5C4.text = Roof Garden
+HotspotPanoramaOverlayTextImage_61F1E354_7619_894E_41B8_A25D9E9EE09F.text = Sala /Comedor
+HotspotPanoramaOverlayTextImage_6A58D30B_7677_8ADA_41C3_CD3148013E30.text = Sala/Comedor
+HotspotPanoramaOverlayTextImage_6ED137DE_761B_897D_41D2_8A041F01FA01.text = Sala/Comedor
+HotspotPanoramaOverlayTextImage_6B9EADFC_767F_993E_41C3_C33BA4615213.text = Sala/Comedor
+HotspotPanoramaOverlayTextImage_55E9DA7E_761B_9F90_4181_1B371D90F1F5.text = Sala/Comedor
+HotspotPanoramaOverlayTextImage_6AF01C95_7678_9FCF_41A4_FFC45B42D185.text = Sube 1er nivel
+HotspotPanoramaOverlayTextImage_5DAC9B33_7639_9D90_41CC_F03E61154C16.text = Sube 1er nivel
+HotspotPanoramaOverlayTextImage_562F8154_7668_8D90_41D0_3B31CDCCEFA1.text = Sube 2do nivel
+HotspotPanoramaOverlayTextImage_5226FB65_7618_9DB0_41B1_FE3F4F4FDC00.text = Vestíbulo
+HotspotPanoramaOverlayTextImage_52B81561_761B_F5B0_41C3_714C5D30561C.text = Vestíbulo
+HotspotPanoramaOverlayTextImage_52109E38_7618_B790_419B_DAE3FFD6838F.text = Vestíbulo 1er nivel
+HotspotPanoramaOverlayTextImage_69A881D9_7677_8C90_41D0_FAABF9E58DE6.text = Vestíbulo 1er nivel
+HotspotPanoramaOverlayTextImage_5413A1B2_7617_8C90_41A8_03EA7A90A97B.text = Vestíbulo 1er nivel
+
+## Media
+
+### Imágen
+imlevel_50D56C46_762B_9BF0_41BD_CA956F5340A7.url = media/panorama_64B100A4_7629_87CE_41BC_DF0AC511F43F_HS_g37zx43s_es.webp
+imlevel_50D8BC65_762B_9BB0_419E_9BA30F94E293.url = media/panorama_64B100A4_7629_87CE_41BC_DF0AC511F43F_HS_uqr308dy_es.webp
+imlevel_5125FD9F_762B_9491_41D4_F067A2201A4E.url = media/panorama_79F881FC_7629_893E_41D3_8686F8376187_HS_3cigpwqi_es.webp
+imlevel_51233D8C_762B_9570_41D0_639F1DB1A0F4.url = media/panorama_79F881FC_7629_893E_41D3_8686F8376187_HS_4ykaoz23_es.webp
+imlevel_51259DB4_762B_9490_41D9_79A4AE4987E9.url = media/panorama_79F881FC_7629_893E_41D3_8686F8376187_HS_gso1p776_es.webp
+imlevel_51255DC6_762B_94F0_41D5_5D78D0D48666.url = media/panorama_79F881FC_7629_893E_41D3_8686F8376187_HS_sz0mvuit_es.webp
+imlevel_51218CFB_762B_9490_41DA_89372CD20513.url = media/panorama_79FAA997_7629_B9CB_41D0_E7FBB51A3FB6_HS_5zfmgd0q_es.webp
+imlevel_515E3CDD_762B_9493_41A7_6EA341B6AD5F.url = media/panorama_79FAA997_7629_B9CB_41D0_E7FBB51A3FB6_HS_mqd3gjbj_es.webp
+imlevel_51241E26_762B_97B0_41C7_46D7F0256623.url = media/panorama_79FCFFB0_7628_99C5_41DB_41678A8CFCC3_HS_3rvc9ozw_es.webp
+imlevel_51243E4C_762B_97F0_41DD_7E0CC93EF0BA.url = media/panorama_79FCFFB0_7628_99C5_41DB_41678A8CFCC3_HS_qw4uvrpl_es.webp
+imlevel_5124BE38_762B_9790_41C1_60A3AAA3432D.url = media/panorama_79FCFFB0_7628_99C5_41DB_41678A8CFCC3_HS_vsf1wbso_es.webp
+imlevel_5132B09A_762B_8C90_41BA_9E201786089F.url = media/panorama_79FE08E9_762B_8746_41CE_8C4213B70DBD_HS_4k95egw8_es.webp
+imlevel_51305086_762B_8B70_41D5_B1B0B6B1B9FB.url = media/panorama_79FE08E9_762B_8746_41CE_8C4213B70DBD_HS_s2vjuoik_es.webp
+imlevel_51302061_762B_8BB0_41B5_4105ADF9D617.url = media/panorama_79FE1AA7_762B_7BCA_41D3_549385701ED0_HS_fvfv8ln7_es.webp
+imlevel_513240D6_762B_8C90_41DB_DDBA65A27656.url = media/panorama_79FE1C22_762B_9ECA_41D6_4128161B96C9_HS_84swjiby_es.webp
+imlevel_5134D0E9_762B_8CB3_41CB_041631DD29F6.url = media/panorama_79FE1C22_762B_9ECA_41D6_4128161B96C9_HS_ih3mb01f_es.webp
+imlevel_513570C2_762B_8CF0_41D8_EA6EA7CAAEFA.url = media/panorama_79FE1DF7_762B_B94A_41AE_505FCEC839EC_HS_0q3h2zte_es.webp
+imlevel_5130704F_762B_8BF0_41D9_3D91C1DC11F9.url = media/panorama_79FE2C65_7628_9F4E_41D5_0E5D0696023B_HS_4lkq7oy9_es.webp
+imlevel_5131E03D_762B_8B90_41A0_3FB92967D24B.url = media/panorama_79FE2C65_7628_9F4E_41D5_0E5D0696023B_HS_j4nw3uzk_es.webp
+imlevel_5123BD66_762B_95B0_41D3_463F9DB8B6B8.url = media/panorama_79FE43D2_762B_8945_41B3_AECA6D89DF28_HS_eb41ieqi_es.webp
+imlevel_51225D7A_762B_9590_41DB_EB82D454D1AE.url = media/panorama_79FE43D2_762B_8945_41B3_AECA6D89DF28_HS_lx9ssdq6_es.webp
+imlevel_512ED016_762B_8B90_41C2_DD4332535A28.url = media/panorama_79FE4E24_7628_BACD_41D3_0247162FDF12_HS_2klsqej2_es.webp
+imlevel_512EDFEE_762B_94B0_41D8_C2FBD2DD4E37.url = media/panorama_79FE4E24_7628_BACD_41D3_0247162FDF12_HS_hkqk3ui4_es.webp
+imlevel_512F7000_762B_8B70_4194_65DD3F8C2F80.url = media/panorama_79FE4E24_7628_BACD_41D3_0247162FDF12_HS_idre5qnw_es.webp
+imlevel_51237D2D_762B_95B0_41D6_D49675EB65CC.url = media/panorama_79FE54C7_762B_8F4A_41C2_4667ACF5874C_HS_9wh0ypg4_es.webp
+imlevel_5123AD1A_762B_9590_41C7_2D5DA970D378.url = media/panorama_79FE54C7_762B_8F4A_41C2_4667ACF5874C_HS_w9ccgaq5_es.webp
+imlevel_51203D41_762B_95F0_41BA_850A1DE3F446.url = media/panorama_79FE6B1B_762B_FAFA_41D4_01F41C69C9F5_HS_h1ygyfy1_es.webp
+imlevel_5122FD52_762B_9590_41D8_F14BE1751D6C.url = media/panorama_79FE6B1B_762B_FAFA_41D4_01F41C69C9F5_HS_wh0fnxyd_es.webp
+imlevel_5133A074_762B_8B90_41D7_0F0A2EB927A5.url = media/panorama_79FEB1A5_762B_89CE_41CF_073D37324FE4_HS_ju5izu1w_es.webp
+imlevel_5B68AB20_7628_FDAF_41C9_F558AC160944.url = media/panorama_79FEE034_762B_86CE_41DC_C3CA8CE416BD_HS_epv57oa9_es.webp
+imlevel_513320AE_762B_8CB0_41C8_FA617CD98F06.url = media/panorama_79FEE034_762B_86CE_41DC_C3CA8CE416BD_HS_nge65jj1_es.webp
+imlevel_44C5A918_7638_9D90_41D8_F594B883A080.url = media/panorama_79FF07CF_7628_895B_41DA_EAEAB1E94E15_HS_8x8tnz7q_es.webp
+imlevel_5125EDEC_762B_94B0_41BE_4F96F9FC6BEC.url = media/panorama_79FF07CF_7628_895B_41DA_EAEAB1E94E15_HS_b2fk5fec_es.webp
+imlevel_51254E12_762B_9790_41D3_B3E1671FAEFC.url = media/panorama_79FF07CF_7628_895B_41DA_EAEAB1E94E15_HS_gy8lrf4b_es.webp
+imlevel_44C5792E_7638_9DB0_41D9_CF89DEC54A33.url = media/panorama_79FF07CF_7628_895B_41DA_EAEAB1E94E15_HS_gzzhcawr_es.webp
+imlevel_5125BDFE_762B_9490_41BE_83B6B862D5E6.url = media/panorama_79FF07CF_7628_895B_41DA_EAEAB1E94E15_HS_m2a6sits_es.webp
+imlevel_51253DDA_762B_9491_41B6_68607791E835.url = media/panorama_79FF07CF_7628_895B_41DA_EAEAB1E94E15_HS_ogur0an3_es.webp
+imlevel_5127FE5D_762B_9790_41B3_BA6F364579F9.url = media/panorama_79FF2DE1_7628_B946_41D5_45512E9116E8_HS_olgsf2qz_es.webp
+imlevel_512BDF2F_762B_95B0_41CA_B8E79DBF6E27.url = media/panorama_79FF4B0C_7628_FADE_41BD_B2B9882856E6_HS_sfg41gdm_es.webp
+imlevel_512B6F0C_762B_9570_41DB_FEBBD0383F28.url = media/panorama_79FF4C55_7628_9F4F_41CA_3AD6FDE91646_HS_7sji6f86_es.webp
+imlevel_51295EE2_762B_94B0_41D5_06AEE9E5BC7D.url = media/panorama_79FF4C55_7628_9F4F_41CA_3AD6FDE91646_HS_fdzan2sh_es.webp
+imlevel_5128EEF7_762B_9490_41B8_32A459799813.url = media/panorama_79FF4C55_7628_9F4F_41CA_3AD6FDE91646_HS_th1dou6n_es.webp
+imlevel_51283F1D_762B_9590_41D9_312B91A0CDD1.url = media/panorama_79FF4C55_7628_9F4F_41CA_3AD6FDE91646_HS_y63nn7au_es.webp
+imlevel_512A6F42_762B_95F0_41D5_7475E00137F0.url = media/panorama_79FF81F9_7628_8946_41D0_1E6FB3B61B99_HS_4r5sfcx6_es.webp
+imlevel_512A9F6A_762B_95B0_41A7_6AFA5178B2EE.url = media/panorama_79FF81F9_7628_8946_41D0_1E6FB3B61B99_HS_d2t1jkvn_es.webp
+imlevel_512B3F55_762B_9590_41A0_8801521FC498.url = media/panorama_79FF81F9_7628_8946_41D0_1E6FB3B61B99_HS_mrn2bqk9_es.webp
+imlevel_512DCF8D_762B_9570_41DB_4D44873B2C29.url = media/panorama_79FF874D_7628_895E_41D4_6254F90DBA70_HS_55rlac3o_es.webp
+imlevel_512F3FDB_762B_9490_41B3_B110A377AF29.url = media/panorama_79FF874D_7628_895E_41D4_6254F90DBA70_HS_8k0yqe2j_es.webp
+imlevel_512FEFB4_762B_9491_41CE_69DA0166C7D3.url = media/panorama_79FF874D_7628_895E_41D4_6254F90DBA70_HS_auen8vdz_es.webp
+imlevel_512D4FA1_762B_94B0_41DC_3F98FF623615.url = media/panorama_79FF874D_7628_895E_41D4_6254F90DBA70_HS_md7773d6_es.webp
+imlevel_512A2F7C_762B_9590_41D4_7F2253DA5A3C.url = media/panorama_79FF874D_7628_895E_41D4_6254F90DBA70_HS_nh8u4d75_es.webp
+imlevel_512F6FCA_762B_94F0_41CF_A82B5F190B2C.url = media/panorama_79FF874D_7628_895E_41D4_6254F90DBA70_HS_ykjyfd8o_es.webp
+imlevel_512E402B_762B_8BB0_41CA_BC4643D05B9B.url = media/panorama_79FF950A_7628_8EC5_41DC_46621A99FF4B_HS_y4lhy55n_es.webp
+imlevel_51266E6F_762B_978F_41D9_8DBF0AC45A07.url = media/panorama_79FFA51B_7628_8EFA_41D7_72074A07F83B_HS_1myzi8ke_es.webp
+imlevel_51294EA9_762B_94B0_41D4_E747E774D847.url = media/panorama_79FFA51B_7628_8EFA_41D7_72074A07F83B_HS_20b443hq_es.webp
+imlevel_5128FEBC_762B_9490_41D8_0604722F09F9.url = media/panorama_79FFA51B_7628_8EFA_41D7_72074A07F83B_HS_2l1pufa5_es.webp
+imlevel_5129BED0_762B_9490_41D0_61360E48BDD8.url = media/panorama_79FFA51B_7628_8EFA_41D7_72074A07F83B_HS_afzoefa1_es.webp
+imlevel_51262E81_762B_9770_41C4_4C7B76C4225A.url = media/panorama_79FFA51B_7628_8EFA_41D7_72074A07F83B_HS_g204rnvm_es.webp
+imlevel_5129FE94_762B_9490_41C1_C7EA195DE432.url = media/panorama_79FFA51B_7628_8EFA_41D7_72074A07F83B_HS_xj939tvm_es.webp
+
+### Subtítulos de Video
+
+### Título
+panorama_79FFA3C1_7628_8946_41C7_42862DE79D82.label = 1/2 BAÑO
+panorama_64B100A4_7629_87CE_41BC_DF0AC511F43F.label = AEREA 1
+panorama_79FAA997_7629_B9CB_41D0_E7FBB51A3FB6.label = AEREA 2
+panorama_79FF2DE1_7628_B946_41D5_45512E9116E8.label = ALACENA
+panorama_79FF4C55_7628_9F4F_41CA_3AD6FDE91646.label = Acceso 1/2 Baño
+panorama_79FE2C65_7628_9F4E_41D5_0E5D0696023B.label = BALCÓN
+panorama_79FE1AA7_762B_7BCA_41D3_549385701ED0.label = BAÑO COMPARTIDO
+panorama_79FF950A_7628_8EC5_41DC_46621A99FF4B.label = BAÑO HAB PRINCIPAL
+panorama_79FCFFB0_7628_99C5_41DB_41678A8CFCC3.label = COCINA
+panorama_79FE08E9_762B_8746_41CE_8C4213B70DBD.label = DESCANSO ESCALERA 2DO NIVEL
+panorama_79FF81F9_7628_8946_41D0_1E6FB3B61B99.label = DESCANSO ESCALERA PB
+panorama_79FFA51B_7628_8EFA_41D7_72074A07F83B.label = ESCALERA PB
+panorama_79FEE034_762B_86CE_41DC_C3CA8CE416BD.label = ESCALERA ROOF
+panorama_79FF4B0C_7628_FADE_41BD_B2B9882856E6.label = ESTUDIO
+panorama_79FE6B1B_762B_FAFA_41D4_01F41C69C9F5.label = FACHADA 2
+panorama_79FE54C7_762B_8F4A_41C2_4667ACF5874C.label = FACHADA PRINCIPAL
+album_627C8FF7_7673_9899_41C1_B229072A6172.label = Fotografías
+panorama_79FE63C7_7628_894A_41C6_71B35A03F9A8.label = HAB 2
+panorama_79FEB1A5_762B_89CE_41CF_073D37324FE4.label = HAB 3
+panorama_79FE4E24_7628_BACD_41D3_0247162FDF12.label = HAB PRINCIPAL
+panorama_79FE1C22_762B_9ECA_41D6_4128161B96C9.label = JARDÍN
+panorama_79F881FC_7629_893E_41D3_8686F8376187.label = LOBBY
+panorama_79FE43D2_762B_8945_41B3_AECA6D89DF28.label = PASILLO LATERAL
+panorama_79FE1DF7_762B_B94A_41AE_505FCEC839EC.label = ROOF GARDEN2
+panorama_79FF07CF_7628_895B_41DA_EAEAB1E94E15.label = SALA/COMEDOR
+panorama_79FF874D_7628_895E_41D4_6254F90DBA70.label = VESTÍBULO 1ER NIVEL
+album_627C8FF7_7673_9899_41C1_B229072A6172_3.label = WhatsApp Image 2026-05-06 at 7.48.44 PM
+album_6E41288A_767C_988B_41B4_A262D3E255D2_3.label = WhatsApp Image 2026-05-06 at 7.48.44 PM
+album_627C8FF7_7673_9899_41C1_B229072A6172_4.label = WhatsApp Image 2026-05-06 at 7.48.44 PMsff
+album_6E41288A_767C_988B_41B4_A262D3E255D2_4.label = WhatsApp Image 2026-05-06 at 7.48.44 PMsff
+album_6E41288A_767C_988B_41B4_A262D3E255D2_5.label = WhatsApp Image 2026-05-06 at 7rgtfrg.48.44 PM
+album_627C8FF7_7673_9899_41C1_B229072A6172_5.label = WhatsApp Image 2026-05-06 at 7rgtfrg.48.44 PM
+album_627C8FF7_7673_9899_41C1_B229072A6172_6.label = WhatsApp Image 2026-05-06 sdvat 7.48.44 PM
+album_6E41288A_767C_988B_41B4_A262D3E255D2_6.label = WhatsApp Image 2026-05-06 sdvat 7.48.44 PM
+album_6E41288A_767C_988B_41B4_A262D3E255D2_2.label = WhatsApp Image 2026-05-0werf6 at 7.48.44 PM
+album_627C8FF7_7673_9899_41C1_B229072A6172_2.label = WhatsApp Image 2026-05-0werf6 at 7.48.44 PM
+album_6E41288A_767C_988B_41B4_A262D3E255D2_7.label = WhatsApp Image 2026-05rew-06 at 7.48.44 PM
+album_627C8FF7_7673_9899_41C1_B229072A6172_7.label = WhatsApp Image 2026-05rew-06 at 7.48.44 PM
+album_627C8FF7_7673_9899_41C1_B229072A6172_1.label = WhatsApp Image 2026-0swrgf5-06 at 7.48.44 PM
+album_6E41288A_767C_988B_41B4_A262D3E255D2_1.label = WhatsApp Image 2026-0swrgf5-06 at 7.48.44 PM
+album_627C8FF7_7673_9899_41C1_B229072A6172_8.label = WhatsApp Image 2026gfred-05-06 at 7.48.44 PM
+album_6E41288A_767C_988B_41B4_A262D3E255D2_8.label = WhatsApp Image 2026gfred-05-06 at 7.48.44 PM
+album_6E41288A_767C_988B_41B4_A262D3E255D2_0.label = WhatsApp Image 202wqr6-05-06 at 7.48.45 PM
+album_627C8FF7_7673_9899_41C1_B229072A6172_0.label = WhatsApp Image 202wqr6-05-06 at 7.48.45 PM
+album_627C8FF7_7673_9899_41C1_B229072A6172_9.label = WhatsApp Imagsdgfe 2026-05-06 at 7.48.44 PM
+album_6E41288A_767C_988B_41B4_A262D3E255D2_9.label = WhatsApp Imagsdgfe 2026-05-06 at 7.48.44 PM
+video_6FE50ABA_7506_4920_41D8_9C0C0AB7D813.label = tulum
+album_6E41288A_767C_988B_41B4_A262D3E255D2.label = Álbum de Fotos WhatsApp Image 202wqr6-05-06 at 7.48.45 PM
+
+### Video
+videolevel_552CCE2E_751A_C920_4178_D595BC4B76E6.url = media/video_6FE50ABA_7506_4920_41D8_9C0C0AB7D813_es.mp4
+videolevel_552CCE2E_751A_C920_4178_D595BC4B76E6.posterURL = media/video_6FE50ABA_7506_4920_41D8_9C0C0AB7D813_poster_es.jpg
+
+## Skin
+
+### Botón
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = FICHA TÉCNICA
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = FICHA TÉCNICA
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = FOTOGRAFIAS
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = FOTOGRAFÍAS
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = INFORMES
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = INFORMES
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145_mobile.label = INFORMES
+Button_D10AB3D4_7784_8696_41D6_8307BE93D0AA.label = INFORMES
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = INFORMES
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = TOUR  360°
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = TOUR 360°
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = UBICACIÓN
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = UBICACIÓN
+Button_6704877A_74FB_C723_41D6_ED9828F46C6F.label = informes
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+
+### Etiqueta
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = CASA TULUM
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = Casa Yagul
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = Grand Juriquilla
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = gRAND jURIQUILLA
+
+### Imágen
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_es.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_es.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_es.png
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_es.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_es.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_es.png
+
+### Texto Multilínea
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.93vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.93vmin;font-family:'Bebas Neue Bold';">CRISTINA espíndola</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5099999999999985vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';">ASESOR certifiCADO</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.5099999999999985vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.51vmin;font-family:'Bebas Neue Bold';">d-0021109125</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1899999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">Tels. 44 23 69 19 39/ 1956 962 12 62</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1899999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">arcaterrainversion@gmail.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1899999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">inversion@arcaterra.mx</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.19vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1899999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;font-family:'Bebas Neue Bold';">https://arcaterra.mx/</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">"Mi objetivo es impulsar el crecimiento de las personas a través de la inversión inmobiliaria inteligente, encontrando soluciones inmobiliarias que logren crear estabilidad económica y libertad financiera."</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.557377049180327vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.56vmin;font-family:'Bebas Neue Bold';">CASA RESERVA DE yagul</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.6229508196721287vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.62vmin;font-family:'Bebas Neue Bold';">DIRECCION: RESERVA DE yagul 202 frACC GRAND JURIQUILLA.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.62vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">¡Tu próximo hogar en Grand Juriquilla te espera! </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Disfruta de una residencia diseñada para ofrecerte el máximo confort, amplitud y una conexión única con la naturaleza, ubicada en una de las zonas con mayor plusvalía de Querétaro.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Espacios que enamoran:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Planta Baja (Funcionalidad y Convivencia):</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Área social abierta: Amplia sala y comedor con excelente iluminación natural.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Cocina equipada: Diseño moderno con barra desayunadora, ideal para tus mañanas.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Versatilidad total: Oficina, estudio o 4ª recámara con baño completo en planta baja (¡perfecto para visitas o home office!).</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Exteriores y servicios: Cómodo jardín privado, pasillo de servicio lateral para mayor independencia y cuarto de lavado techado.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Planta Alta (Tu espacio de descanso):</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Master Suite: Recámara principal con vestidor privado, baño completo y un balcón exclusivo.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Recámaras secundarias: 2 amplias habitaciones que comparten un baño optimizado con doble lavabo.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">El toque maestro:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.529999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Roof Garden: El escenario perfecto para tus reuniones o momentos de relax, con hermosas vistas panorámicas a la reserva</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.67vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">Ubicación</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">reserva de yagul 202</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">Fraccionamiento Gran juriquilla</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">áreas:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.98vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">áreas:</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16.66666666666666vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16.67vmin;font-family:'Bebas Neue Bold';">CASA RESERVA DE yagul</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.62vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.66666666666666vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.67vmin;font-family:'Bebas Neue Bold';">DIRECCION: RESERVA DE yagul 202 frACC GRAND JURIQUILLA.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6.67vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8887499999999977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;">¡Tu próximo hogar en Grand Juriquilla te espera! </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8887499999999977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;">Disfruta de una residencia diseñada para ofrecerte el máximo confort, amplitud y una conexión única con la naturaleza, ubicada en una de las zonas con mayor plusvalía de Querétaro.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8887499999999977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;">Espacios que enamoran:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8887499999999977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;">Planta Baja (Funcionalidad y Convivencia):</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8887499999999977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;">Área social abierta: Amplia sala y comedor con excelente iluminación natural.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8887499999999977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;">Cocina equipada: Diseño moderno con barra desayunadora, ideal para tus mañanas.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8887499999999977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;">Versatilidad total: Oficina, estudio o 4ª recámara con baño completo en planta baja (¡perfecto para visitas o home office!).</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8887499999999977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;">Exteriores y servicios: Cómodo jardín privado, pasillo de servicio lateral para mayor independencia y cuarto de lavado techado.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8887499999999977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;">Planta Alta (Tu espacio de descanso):</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8887499999999977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;">Master Suite: Recámara principal con vestidor privado, baño completo y un balcón exclusivo.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8887499999999977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;">Recámaras secundarias: 2 amplias habitaciones que comparten un baño optimizado con doble lavabo.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8887499999999977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;">El toque maestro:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8887499999999977vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;">Roof Garden: El escenario perfecto para tus reuniones o momentos de relax, con hermosas vistas panorámicas a la reserva</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16.952916666666656vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16.95vmin;font-family:'Bebas Neue Bold';">Ubicación</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.616249999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.62vmin;font-family:'Bebas Neue Bold';">reserva de yagul 202</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.609166666666665vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Fraccionamiento Gran juriquilla</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.444444444444443vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:4.44vmin;font-family:'Bebas Neue Bold';">CRISTINA espíndola</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.444444444444443vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.44vmin;font-family:'Bebas Neue Bold';">ASESOR certifiCADO</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.444444444444443vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.44vmin;font-family:'Bebas Neue Bold';">d-0021109125</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.44vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.444444444444443vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.44vmin;font-family:'Bebas Neue Bold';">Tels. 44 23 69 19 39/ 1956 962 12 62</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.444444444444443vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.44vmin;font-family:'Bebas Neue Bold';">arcaterrainversion@gmail.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.444444444444443vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.44vmin;font-family:'Bebas Neue Bold';">inversion@arcaterra.mx</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.96vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8888888888888875vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:3.89vmin;font-family:'Bebas Neue Bold';">https://arcaterra.mx/</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.89vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.6111111111111094vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">"Mi objetivo es impulsar el crecimiento de las personas a través de la inversión inmobiliaria inteligente, encontrando soluciones inmobiliarias que logren crear estabilidad económica y libertad financiera.  </SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = CASA YAGUL
